@@ -4,6 +4,9 @@
 The first part of the assignment utilizes beautiful soup to extract the title and preview text from the elements of the HTML of a website that holds information about Mars. The second part of the assignment extracts Mars data and puts it into a data frame. Certain columns of the data frame are converted to floats and integers for analysis purposes. Bar charts and line graphs are created to display the month with the lowest average temperature, the month with the lowest average atmospheric temperature, and how many terrestrial days exist in a Martian year.
 
 
+This ReadME's description is [copyrighted](https://github.com/cindyd97/Work/blob/main/LICENSE). 
+Unauthorized use or reproduction is prohibited.
+
 ### Language:
 Python and Beautiful Soup Library
 
